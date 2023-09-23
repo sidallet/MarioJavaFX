@@ -1,0 +1,9 @@
+#fond{
+    -fx-background-image: url("/images/game/bg.png");
+}
+
+#titre{
+    -fx-font-size: 30px;
+    -fx-font-weight: bold;
+
+}
