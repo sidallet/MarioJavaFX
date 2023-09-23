@@ -1,5 +1,4 @@
-UNE ERREUR EST PRESENTE DANS LE MANAGER : QUAND ON RECUPERE LA CLE LE SCORE EST DIVISE PAR 2, IL FAUT REMPLACER CETTE VALEUR PAR 300
-modele/manager/Manager.java -> fonction invalidated ligne 160
+Projet réalisé en 2eme année de DUT Informatique dans le cadre de la découverte du Java.
 
 
 
